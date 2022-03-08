@@ -1,6 +1,8 @@
 ## Welcome 
 
-My name is ----. 
+My name is Linzyzyzy. 
 I am an IBI1 student at ZJU-UoE institute, Zhejiang University.
-
-[webpage](https://c.zju.edu.cn/) 
+The top ten I like is:
+for a in range(1, 11):
+	I like a
+[Maybe I do not have an individuel page now, please wait :)] 
