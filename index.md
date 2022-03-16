@@ -11,4 +11,4 @@ for a in range(1, 11):
 	I like a
 ```
 
-<https://Linzyzyzy.github.io/lzy.md>
+![](/image/2.png)
