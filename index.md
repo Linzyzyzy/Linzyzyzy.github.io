@@ -11,4 +11,4 @@ for a in range(1, 11):
 	I like a
 ```
 
-[Maybe I do not have an individuel page now, please wait :)] 
+<Linzyzyzy.github.io/lzy.html>
