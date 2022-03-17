@@ -11,4 +11,6 @@ for a in range(1, 11):
 	I like a
 ```
 
+[click](lzy.html)
+
 ![](/image/2.png)
