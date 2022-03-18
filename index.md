@@ -12,3 +12,4 @@ for a in range(1, 11):
 ```
 
 [![](/image/2.png)](lzy.html)
+
